@@ -1,38 +1,56 @@
 # 👋 Bienvenue sur mon GitHub !
 
-Je m'appelle **Yarbana Cheikh Mohamed Vadel** et je suis étudiant en 2ᵉ année du **cycle ingénieur** à l’**École Supérieure de la Statistique et de l’Analyse de l’Information (ESSAI)**, spécialisé en **Statistique et Analyse de Données**.
+# 👋 Salut, moi c’est Yarbana !
+
+Bienvenue sur mon espace GitHub.  
+Je suis étudiant en 2ᵉ année du cycle ingénieur à l’**ESSAI** (École Supérieure de la Statistique et de l’Analyse de l’Information), et je m'intéresse à tout ce qui touche à la **modélisation**, à l’**intelligence artificielle** et à **l’informatique appliquée**.
 
 ---
 
-## 💡 À propos de moi
+## 🚀 Ce qui me passionne
 
-- 🎓 Passionné par la modélisation statistique, le machine learning et l’actuariat.
-- 🧠 Curieux de tout ce qui touche à la **data science appliquée**, surtout en assurance, santé et finance.
-- 🧰 J’utilise principalement **Python**, **R**, **LaTeX** et des outils comme `XGBoost`, `SHAP`, `Streamlit`, `R Shiny`.
-- 🏆 Classé 3ᵉ à la compétition **RIM AI 2024** sur Kaggle Mauritanie.
-- 🌍 Je m’intéresse également à la cartographie, l’analyse spatiale et la visualisation interactive.
+Je suis curieux de nature, et j’aime :
+- Explorer la puissance des **modèles prédictifs**
+- Comprendre comment les **algorithmes d’IA** peuvent résoudre des problèmes concrets
+- Créer des **interfaces simples** autour de solutions techniques
+- Apprendre et tester de nouvelles technologies
 
----
-
-## 📌 Projets en vedette
-
-| Projet | Description | Liens |
-|--------|-------------|-------|
-| **[Tarification Auto](https://github.com/YarbaneRabi/auto-claim-pricing)** | Modélisation du coût des sinistres via GLM et XGBoost + dashboard R Shiny & interface Streamlit | [🔗 GitHub](https://github.com/YarbaneRabi/auto-claim-pricing) |
-| **[Détection de plaques - RIM AI](https://github.com/Medsalemabdi/RimAI-contest-number-plates)** | YOLOv8 + EasyOCR pour détecter et lire des plaques d'immatriculation. | [🔗 GitHub](https://github.com/Medsalemabdi/RimAI-contest-number-plates) |
-| **[Détection de diabète](https://github.com/YarbaneRabi/diabetes-detector)** | Site web Django avec modèle XGBoost pour la prédiction du diabète. | [🔗 GitHub](https://github.com/YarbaneRabi/diabetes-detector) |
+Pour moi, un bon projet, c’est un projet **qui fonctionne, qu’on peut expliquer simplement**, et qui **a un impact réel**.
 
 ---
 
-## 📫 Me contacter
+## 🛠️ Quelques projets que j’ai réalisés
 
-- 📧 **yarbana.cheikh.mohamed.vadel@essai.ucar.tn**
-- 💼 [LinkedIn](https://www.linkedin.com/in/yarbane-rabi)
-- 🌐 [Hugging Face (si tu en as un)](https://huggingface.co/...)
+- 🔍 **Prédiction de sinistres automobiles**  
+  Construction d’un modèle coût-fréquence combinant GLM, XGBoost, interprétation SHAP, déploiement avec Streamlit et R Shiny.
+
+- 🚘 **Lecture automatique de plaques d’immatriculation**  
+  Détection d’objets avec YOLOv8 + reconnaissance OCR avec EasyOCR. Classé 🥉 3ᵉ à la compétition RIM AI.
+
+- 🩺 **Détection du diabète à partir de données médicales**  
+  Application web Django avec un modèle XGBoost intégré pour des prédictions en temps réel.
 
 ---
 
-### Merci pour votre visite et n’hésitez pas à explorer mes projets ! 🚀
+## 💻 Tech et outils que j’utilise souvent
+
+- **Python** (XGBoost, scikit-learn, SHAP, Optuna, pandas, Gradio, Streamlit)
+- **R** (Shiny, ggplot2, sf)
+- **Django**, **LaTeX**, **Git**, **GitHub**
+- En ce moment je m’intéresse beaucoup à **l’IA générative**, aux **LLMs** et à l’intégration de modèles dans des apps légères.
+
+---
+
+## 🔗 Me suivre ou me contacter
+
+- 📬 [yarbana.cheikh.mohamed.vadel@essai.ucar.tn](mailto:yarbana.cheikh.mohamed.vadel@essai.ucar.tn)
+- 💼 [LinkedIn – yarbane-rabi](https://www.linkedin.com/in/yarbane-rabi)
+- 🐙 [Voir mes dépôts GitHub](https://github.com/YarbaneRabi)
+
+---
+
+Merci d’être passé sur mon profil, et n’hésite pas à explorer mes projets ou à me laisser un message !
+
 
 
 <!--
