@@ -1,4 +1,4 @@
-# 👋 Bienvenue sur mon GitHub !
+
 
 # 👋 Salut, moi c’est Yarbana !
 
@@ -11,11 +11,10 @@ Je suis étudiant en 2ᵉ année du cycle ingénieur à l’**ESSAI** (École Su
 
 Je suis curieux de nature, et j’aime :
 - Explorer la puissance des **modèles prédictifs**
-- Comprendre comment les **algorithmes d’IA** peuvent résoudre des problèmes concrets
-- Créer des **interfaces simples** autour de solutions techniques
+- Comprendre et appliquer la **théorie du machine learning et du deep learning**
+- Utiliser l’**intelligence artificielle** pour résoudre des **problèmes concrets du monde réel**
 - Apprendre et tester de nouvelles technologies
 
-Pour moi, un bon projet, c’est un projet **qui fonctionne, qu’on peut expliquer simplement**, et qui **a un impact réel**.
 
 ---
 
