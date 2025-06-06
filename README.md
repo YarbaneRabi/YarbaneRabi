@@ -1,6 +1,6 @@
 
 
-# 👋 Salut, moi c’est Yarbana !
+# 👋 Salut, moi c’est Yarbane!
 
 Bienvenue sur mon espace GitHub.  
 Je suis étudiant en 2ᵉ année du cycle ingénieur à l’**ESSAI** (École Supérieure de la Statistique et de l’Analyse de l’Information), et je m'intéresse à tout ce qui touche à la **modélisation**, à l’**intelligence artificielle** et à **l’informatique appliquée**.
